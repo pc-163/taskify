@@ -81,7 +81,7 @@ const Signup = () => {
           mt={8}
           className='form-bg'
         >
-          <form onSubmit={handleForm}>
+          <form method="POST" onSubmit={handleForm}>
             <Stack spacing={4}>
 
               <FormLabel>Full Name</FormLabel>

@@ -3,3 +3,8 @@ body{
     margin: 0;
     padding: 0;
 }
+
+.tag-c{
+    font-size: 40px;
+    color: #a52a2a;
+  }
